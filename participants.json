@@ -1,8 +1,1 @@
-{
-  "FARMER-001": {
-    "participant_id": "FARMER-001",
-    "role": "Farmer / Collector",
-    "private_key_pem": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgmsqvCDwhhlYYS8/g\n36/HVsfqtA/2Bzs8kW/Kw73bBEKhRANCAATIh/Kq1xvL9xGjN3QSUw+91kb4TAvh\nMIPeAFuCfXdePV7/woEk8hdZ4/cTB7WQ9T/bStw4JA7OTXuh6W/EhxvX\n-----END PRIVATE KEY-----\n",
-    "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEyIfyqtcby/cRozd0ElMPvdZG+EwL\n4TCD3gBbgn13Xj1e/8KBJPIXWeP3Ewe1kPU/20rcOCQOzk17oelvxIcb1w==\n-----END PUBLIC KEY-----\n"
-  }
-}
+
