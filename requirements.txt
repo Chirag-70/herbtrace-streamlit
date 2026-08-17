@@ -1,8 +1,1 @@
-streamlit>=1.36,<2
-Pillow>=10,<12
-qrcode[pil]>=7.4,<9
-cryptography>=42,<46
-scikit-learn>=1.4,<2
-pandas>=2.0,<3
-streamlit-geolocation==0.0.10
-opencv-python-headless>=4.9,<5
+
