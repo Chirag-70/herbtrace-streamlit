@@ -15,7 +15,7 @@ from blockchain.wallet import load_or_create_participant
 from ml.anomaly_detector import detect_anomaly, rate_processing
 from utils.gps import extract_exif_gps, normalize_browser_location, capture_timestamp
 from utils.qr_codec import save_qr, decode_payload
-from herb_classifier import show_herb_classifier
+#from herb_classifier import show_herb_classifier
 
 try:
     from streamlit_geolocation import streamlit_geolocation
