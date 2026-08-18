@@ -117,7 +117,7 @@ if role == "Farmer / Collector":
     st.info("No manual latitude/longitude input. Get browser/device location and capture the herb image.")
 
     herb_name = st.text_input("Herb name", "Ashwagandha")
-    show_herb_classifier(herb_name)
+    #show_herb_classifier(herb_name)
     quantity = st.number_input("Initial herb quantity (kg)", min_value=0.001, value=50.0, step=0.1)
 
     st.subheader("📍 Live location")
