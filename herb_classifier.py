@@ -1,4 +1,4 @@
-import streamlit as st
+'''import streamlit as st
 
 CNN_CLASSIFIER_URL = "https://brqhdhhv5diwqbg9jixjfc.streamlit.app/"
 
@@ -29,4 +29,4 @@ def show_herb_classifier(herb_name):
     st.warning(
         "Compare the CNN prediction with the farmer-entered herb name before "
         "creating the collection batch."
-    )
+    )'''
